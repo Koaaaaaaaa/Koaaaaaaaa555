@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Reeves",
+  "age": 65,
+  "address": {
+    "street": "Ukawu Square",
+    "city": "Cusibi",
+    "state": "MT",
+    "zip": "74240"
+  },
+  "contact": {
+    "phone": "(236) 866-6046",
+    "servicePhone": "800542687"
+  },
+  "birthday": "1968-01-24T06:38:58.950Z",
+  "ip": "119.252.19.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Mifzobhuk kuronkis era iciopi nag haha ral ewovi giwgu nelwe detolsac reilaaz mabda. Tec uce awewas bo cutzok gi pi ije ti fa piroti wiz ku. Nuzelrak agiuwepi ra usipeom zegjuf vuc dake kooku mamheglim lu kofuz kafuvupa pojizez. Bamakhok tic bocabri fo buw juacve toc idare cuwlida lucur ti tupuguc touh jesonug fewuhu rofgaec albavej volhukci.",
+    "bio": "Ka vamod utzecud zupuwal irsezan idejajboj wob wofeen hawi icebone zam akewag cem. Hamiwzo uvic dacic gadfi upzoj es kup non diz uri kow kakeg dakigaga vuiwa. Ni naboplad eci inuuhigol vumimev vimkivku anesuguc sojuc imam bojojno gukbade na. Pobzakon tef lulor nutrehike citwimes urto anlacci abzopo buk vermuk wozuk ap bi."
+  },
+  "apiKey": "30923add80b69f484bc93650ea4ae134f502bafcb6597e56c40eaaac640eff2a",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
