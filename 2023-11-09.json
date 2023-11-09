@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Norris",
+  "age": 63,
+  "address": {
+    "street": "Lohis View",
+    "city": "Pohani",
+    "state": "VT",
+    "zip": "27860"
+  },
+  "contact": {
+    "phone": "(563) 531-3067",
+    "servicePhone": "800614888"
+  },
+  "birthday": "1962-10-26T13:50:12.298Z",
+  "ip": "46.0.20.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Fugu okiwitod feudfa lejfu owomuv if laesurom wevej dawobcig jatugebi jusluzuju enar wahevaen jat motocoz lil. Lehor ekuras ja suma sigup ca hip vil el jekit upi pisbura ro depat zug ifaroci cadup. Almi fuar musoc lum tururhas kiren vaow pes jus ta kogap nu joupa sik vapav se heze za. Pef ra ku huke nigi cim bejlusho nandud duivaan hi za uga vev vuci sucu nufbegvuk nuh wihmahkaz. Siefwoc bifjeza beszub pif dut fodhowsu zizo liuvges ahe noh pot ni ga omu ze suum lusotiv.",
+    "bio": "Munohni uf dahazeko dum miira owemotav tizac buh kanji fo kow horga cuwaphu piljufic zizul ridage darina gu. Go ij lafvoh ja mecaham eke saharhaf te ebin gaswarcav guakjeg se eltobe mehgemzum. Nahmun ojogop erije komuj jenislec ca saijejav tidozbo vosit or up ucuumeume jas iczog ecu. Hasfudmon edakera hikha wafriz lak cujate navsuztec ew bepa go ivewo kieduum juzer valuaju punti. Wusiho wal ulo we vicumin bu ki imo bides talib camazi tac."
+  },
+  "apiKey": "800443a8cd7933f77edbf3edbdd8646a386c8cbb5067ecb1e381043d05351e52",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
