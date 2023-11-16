@@ -1,0 +1,26 @@
+{
+  "name": "Frances Young",
+  "age": 26,
+  "address": {
+    "street": "Zajmu Lane",
+    "city": "Huvuvju",
+    "state": "MO",
+    "zip": "76199"
+  },
+  "contact": {
+    "phone": "(616) 568-5083",
+    "servicePhone": "800511955"
+  },
+  "birthday": "1962-07-18T10:57:49.982Z",
+  "ip": "75.185.2.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Co ibiwton pugdi geze saejur bosoruil ru razasevo tar diwe we lobose sud jom. Zu zaspovtud bapu bora uhwuwu sot ci nuhvobes wajinwu ruh wiv fut zenvuv gonfic. Oc va cinvitiw rowovfu pe poozo coramipi davnirher gakgafgoj cahfojne witci mudo ozo busi me.",
+    "bio": "Ke ejome rihmoep ki uwozek ced hutal okidudwo pew waw rij olfi fozago aplobzug. Ji ehu ibohiena aj garma ake nuprem bagic mojfuj vutfa afvolig dehisce oggupo iktaf wihve wuksu ikobesaw wu. Locceb mawke sef fecu olonense norponziz ritewhi ata im zessinire fi le asbur picho."
+  },
+  "apiKey": "611cd218bc52d026f2ff5f39566a237dec937119b3539d7d1ad4ac29a6e4e345",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
