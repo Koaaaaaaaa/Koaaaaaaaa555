@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Simpson",
+  "age": 23,
+  "address": {
+    "street": "Dupno Drive",
+    "city": "Mochuaco",
+    "state": "AR",
+    "zip": "34673"
+  },
+  "contact": {
+    "phone": "(366) 751-3413",
+    "servicePhone": "800723835"
+  },
+  "birthday": "1990-09-22T14:00:00.978Z",
+  "ip": "6.113.120.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Il bifbemmik jese ubjo idaatemef sagzec dugeho ca wagrec busoh ahwa va pu ug. Lufupo eh pauduwin ra suzu bevzu otfil gijwo el pelozwi ewizok ivoiv fuse dovola. Jebos ule ruse bak nehop japa ziebi ge funi osjamhi mochocar apova zoop somjaov fiz vib. Zek ukisol gorefe dibit ripijtac ne ufjokvu je pibi wenewu pattav vim bawi. Zaseka te tone jidov fivve uso cot gathe memlo cufuriju sozacse luwukuama nepezvep nituz jevgu bes fusanluk. Ebe ju rin arofohij ra lit caetilo zagavasas seub vobeppi mas vuvujsel.",
+    "bio": "Ezmaz reuko lirni roampi ot we tafapbu alrar res hurmukfof dibnidgub suswujon jo pooh gusmi zafarwe. Dapi jufud asowus pe timom ilelarur ele bopideta ri jesiz zorofilo esivej ti wi daapdel bevut. Ce su vo otako zu sefakga jo pij we feg ninlibfag povare sis mac jin lew kinpirta bif."
+  },
+  "apiKey": "60f1fd9cc2feb4fd90d492565b910c5d9f307e57d147a79f7f06063b31956f3d",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
