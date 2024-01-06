@@ -1,0 +1,26 @@
+{
+  "name": "Iva Park",
+  "age": 34,
+  "address": {
+    "street": "Paze Key",
+    "city": "Ejiceja",
+    "state": "AR",
+    "zip": "40165"
+  },
+  "contact": {
+    "phone": "(419) 672-8440",
+    "servicePhone": "800548933"
+  },
+  "birthday": "1971-11-15T10:40:31.207Z",
+  "ip": "177.69.13.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Kawhimon muf poewate te tuluaba fojo sovbor sunnaojo in el um morgahof widimbiz. Er eku lujdopiz zi juvco pezewik bedfikun avneno gemuw oki uze roc hikili reup cek sioh fem. Tabfobi uwi sedife gukamep dok nuhlewes van gufsen vomwewek awroil mabwur kivicjom vihe pomof wotij tijoze.",
+    "bio": "Enocen higugu fe me rufjol lolelkij pe ic eko dukuzza nogek wati ivkelci cahemso ez zoc jifo havgoku. Fo ha va torzucza wis sojhir tujpoh mivav eveho wocelun kulvovan lot rapof. Viibduv okiwit mukguzza monut cahzibe ap wajdi owi gaholin mesvi now zik."
+  },
+  "apiKey": "9dc4cf47af324462cbcb351951c23efe0fa2ca1c613e125c1efee7135f01e633",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
