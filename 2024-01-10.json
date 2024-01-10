@@ -1,0 +1,26 @@
+{
+  "name": "Bill Henderson",
+  "age": 20,
+  "address": {
+    "street": "Ruplov Turnpike",
+    "city": "Dufuaj",
+    "state": "WY",
+    "zip": "49795"
+  },
+  "contact": {
+    "phone": "(666) 267-5860",
+    "servicePhone": "800437615"
+  },
+  "birthday": "1967-05-17T17:28:23.618Z",
+  "ip": "54.138.208.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Fitema kizejol latbasom ec dupjef oju cauteh mamef juh ibbig zoimnup osalorec mouho azeimen vil itja redrer. Pow am ackonza solef oficewoc ula vebkoh vucbeha awe bacen meturur nec jofbuk aguhil ut hamahi fe solup. Unitaple kufuga udmire joupe niloje vadirav vuawzik dag rejuga timsioci teremot virijemis we nu leckop bulaju. Ine zup eve ocwuta jejatane tubcik mute zibmon tez bez vawuhi zaze powozude elguivo jof. Tuuse buw wuanca etasi bogo sol uwigeoga lub vanip ze zubzov jekinhe fi ti podisaw wuc dudcin meoci. Nev adolog awra gulveh weoge kuin dimmeesa orejofe buamuv sarimom dage zez libez. Bomepu touhsu ke afizibec bad geij safe ikerajiz niho magteep opa bilom jozif evlu lo zanor.",
+    "bio": "Oko do tidwuj inuri oha tonocagi efwiif davoet apo keg pim fa dari. Jik wihir ne jarhodih oj ibeca pawju to se gokolsu ednu kege. Uzakaho ah tib fa wasne nedifda hibik cafsogcis de feapi roj avhah ifcaz woemi. Ze ajih age hujzoled na elojezeb wuti gulusvu enoju fojiwo dotzigla wa sadsog tec fensibfuw. Zibe patug jub suga mibip vubovsa ud evuwaop ahdab joopo wu otuapawu to fot az we. Val mot vi merov imu suw surirde van mueghek gemlowbe se iliffek ovo daklevom co bibuhap."
+  },
+  "apiKey": "a37f37d28e998a49586c6fe012ff6d25b3818f96d4a7a12dfee5034d29ec7bc8",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
