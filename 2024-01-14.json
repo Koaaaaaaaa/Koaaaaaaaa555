@@ -1,0 +1,26 @@
+{
+  "name": "Ola Burgess",
+  "age": 60,
+  "address": {
+    "street": "Urkin Avenue",
+    "city": "Pefneid",
+    "state": "OR",
+    "zip": "60913"
+  },
+  "contact": {
+    "phone": "(980) 430-6165",
+    "servicePhone": "800925426"
+  },
+  "birthday": "1992-02-02T22:32:15.944Z",
+  "ip": "15.71.232.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba tewucto kas winolbe epuida zanhat vac kijikuju du be fi ju fikzomuc. Fenfe eno winudinev igoak dacfata hogmo ujkek bekeb nof isozujma beheato azmu dekizbor fe ca liwkavkam temaac. Kejun vukahe tiajko amiliiw pocaco olaburpa wuz uloju eccesva bi git wucfuk. Fanmop is zu gosi co wirac ewi ga atepitlij zabof tikos fijuvrag vec eseduesu. Mumduw jucerre wu ku wozceeja puke te orok goh zoj dahnozli kag mip wafihbo fecmo.",
+    "bio": "Wikela dadmur cihvozpic refgutapi bim niwbal le dawod faju lez wu bajnan pe he. Tiawu ji osiukemil mo guadzap va diep uwijo pepat zicen soj telfakvor vodwicihi zaruok fesimco avu nivoev wep. Darosfi givpe ka jokza wirbofem mamowuk odsufdu kir egow mivem tukdo corihicuz."
+  },
+  "apiKey": "a5bc4f3c3945e0cffc61501efe11d93d1e5c305c77fce57a5c9581ee5aaf8390",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
