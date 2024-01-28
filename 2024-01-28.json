@@ -1,0 +1,26 @@
+{
+  "name": "Walter Delgado",
+  "age": 60,
+  "address": {
+    "street": "Jigede Point",
+    "city": "Soveale",
+    "state": "SD",
+    "zip": "97732"
+  },
+  "contact": {
+    "phone": "(211) 350-4018",
+    "servicePhone": "800898567"
+  },
+  "birthday": "1975-01-10T16:13:43.263Z",
+  "ip": "90.6.117.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Mueghu jowiriit zi zarkudim tossuwcog unsin dak oza kadvijo juhgim fa howe sar vo nolimot. Acdo ecottog sobuw osiboh ibi aghosvov dufwa keeruoze jo va cel veja. Ice al em zemi joel nakus galjim derof dotkoli get cethogi roszoz.",
+    "bio": "Zihpazaz ri pu ohagoled wahoji obvid funivofi ifuwel lipzidvur bobo gawcagu ime si nu nuta jarwulid jufa. Zikufzub gechi uvoni kousefot nolfi dugikno pa mut sepup vel lolhelda ripnipa zipiz maj. Ba duzsaful iku jodro goleg ro ce dusi nuzkupcag moihoeja uju luzno. Wenufu fufujvig pothunsa ebize budhiful amkifeno tedzabede difitno vuucoduz pe vaon fiavi vivo rukzudeh okci gej kocbuv lecpuhap."
+  },
+  "apiKey": "b1c834a07d8baf85de1c19e7524dd65617ebaa51333e1c52fa06b7735b09374f",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
