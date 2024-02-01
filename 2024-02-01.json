@@ -1,0 +1,26 @@
+{
+  "name": "Jean Diaz",
+  "age": 38,
+  "address": {
+    "street": "Matem Lane",
+    "city": "Ovozec",
+    "state": "IN",
+    "zip": "76484"
+  },
+  "contact": {
+    "phone": "(360) 280-8328",
+    "servicePhone": "800473757"
+  },
+  "birthday": "1981-02-11T17:16:21.684Z",
+  "ip": "70.174.240.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Du nupza kul zunolirip nulu atodu ba wim guhduw ikahul gepezomo panuhmu zeswe isliwen dejsa lapfog. Po ke umfumabo unerpu pirlus sec vefub tonirene wervazre afmulim wodmovdir lajoras regowap re. Tivtef no koipod elte focuva lidil lezkarzup cuge lod uzizaj go tuh sipe roawace haziv.",
+    "bio": "Suv tov zus cap uvaovu vo pojiusi wu hezi zer susu ewakud pivu kaafa ma lugezced bi ukahim. Kawijbi asdufid nep giz locanur foti ocanere fuebo tewsador ede fiwemop mo soluov ni gaf wisrup kewtuk. Asal hihugofo jo ulu rolo betune isu mi cusu ki bowco olpov web obci ekti suprorze jefur. Wejad laehofo kuiru purcid sopmor le hasguwe wu hujonhef vosij jaeguow jo. Zaabuet imcajud ufi zikca roolowuc fuiste vifik ahoudeeku saradjav me zeh koito wuedara waapedo cuccub ciilkuh zaja tup. Wirhi sote hagjibi zev wo murkodtub epjij ij liret besisbic fewija ko ulu. Meculvec ze gib ah mab ak rasumedi fiwuez tad guw hipgief tobmupol nojdu mo dicbune."
+  },
+  "apiKey": "9a1cdd43cb19e603139f8f9d54e32e0899e1979974eb6273f65c8aaa2694bacc",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
