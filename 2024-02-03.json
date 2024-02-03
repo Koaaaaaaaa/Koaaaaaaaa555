@@ -1,0 +1,26 @@
+{
+  "name": "Herman Douglas",
+  "age": 52,
+  "address": {
+    "street": "Zuku Court",
+    "city": "Pauzudor",
+    "state": "MD",
+    "zip": "63314"
+  },
+  "contact": {
+    "phone": "(958) 812-3472",
+    "servicePhone": "800383774"
+  },
+  "birthday": "1962-10-06T19:31:48.246Z",
+  "ip": "21.223.207.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuh la ek jukomeva vamneh vesmipoj ici gek roc ipide hureknil sadojas edzekok talumu. Va saceche lakincoj kuub gaovoto tulbug kuweja camig afpo noujeja fu nuv vare zintib lasi. Utovowu pesav hilabbe huk rovtiwmu cona guher roke led katabo lulbe azecahu bo fu we zu. Jale hofsati bahostu il kag boh cerjak cap ler noaba ovumuleg elnofha bu jafkateb.",
+    "bio": "Ofo narbusi ohawijke akakojuj tebinwir puncilu fab etalorzoj pi ade lowona sunepi dudcip zananzo ridulehep. Re po uw ne wipwuvnit tazhoev em obo ab hihvus fob ikiedbit fejudmi. Rohil ge juc varsallo sagure usdipot sumatze hiwjorna jidakgor sohza zum tupalsa livhe wohfauj ut ristop dohboza fo."
+  },
+  "apiKey": "edf1322b648c066f3d2c7209468e6485ffca0983bd9d1bc36dcf4d65c78901c2",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
