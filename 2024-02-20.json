@@ -1,0 +1,26 @@
+{
+  "name": "Todd Nguyen",
+  "age": 62,
+  "address": {
+    "street": "Narno Center",
+    "city": "Mekbomda",
+    "state": "NY",
+    "zip": "18604"
+  },
+  "contact": {
+    "phone": "(209) 880-6677",
+    "servicePhone": "800378733"
+  },
+  "birthday": "1976-01-29T13:31:11.938Z",
+  "ip": "236.115.180.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Awemekon pifogac mu cefleuwu dafpun touc ibosup finuepo jeke dirgogimu us esonanopo. Vak ami bedcij ven ahvakje levjef opolon nihmip wicibci je dec ku neh havigpif ivaleosa. Kehow gokho eror rejhe de renogtap gerojzez nuja ti fifeji ned sivfoegi zalepi.",
+    "bio": "Wawola dewawla gef zaspel pavo nicnutul kutogri lisep copdev nicijnob ihcone ca vufu bozeer niza wopvulvi. Ahivu dok te tav zebne ja zuvtuwzus lof cuku ujcec liilne maol ep zu bifsueg guf. Esuoj husazek ciw ruvezso lawfe zuwe guvoko ulloj boiha faset mo gi tumebuja izu nujdo. Papso jol sulkugja ehagenduw oz gid pevofaw rawkeip esmo ozi emkikwov catpantu uvu zikbamu agaalo toranota tuk nahuw."
+  },
+  "apiKey": "2c46eac13f65ac520beb50916b53a8f20dffe91e8ddcdfc109cd13b8d06a719c",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
