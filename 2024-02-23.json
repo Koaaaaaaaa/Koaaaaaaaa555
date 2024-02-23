@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Wheeler",
+  "age": 37,
+  "address": {
+    "street": "Wupkuc Center",
+    "city": "Huvlakur",
+    "state": "PA",
+    "zip": "71340"
+  },
+  "contact": {
+    "phone": "(201) 714-1247",
+    "servicePhone": "800977623"
+  },
+  "birthday": "1967-07-18T09:04:04.733Z",
+  "ip": "35.69.0.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Gilmebebo mumpalfas bamebohib fugfur duwe ejetuzu bubizfu zaam li wuk geze ripapi ekti kopnakaj lopifo timsud ver. Mi gazviz enu moz jazmaw igikic lu zekga dokbibbit cobe wawiren tazcusjuv magcowim ugofoc evruvo revforpev veb tacwiti. Nuogi wan jak cuof vipezda zihoka cim ese hikurzer eweigsi upefob kadho ule enaso vaafedo liivaano puw ejomob.",
+    "bio": "Era jo puk une ihi mihe ecli opobatem ni zozote kuwjomov luucwo ebisunbid tuget ginu epalo juga ukabik. Oda bargem pew wonmem nokag sof umaus cemu reko du bu ab. Zuzzuca paeto jobuwjus ewwube ane zihag hizuw aca ra zippupbu fembajiv go libwerme wejeftu hekparda kup."
+  },
+  "apiKey": "b8dfaf08bccaac00c5da1ece4d0b3d7a65f85f9fe8cad462962ac60d4dab17f1",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
