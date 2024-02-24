@@ -1,0 +1,26 @@
+{
+  "name": "Cody Duncan",
+  "age": 23,
+  "address": {
+    "street": "Asepiz Pass",
+    "city": "Fodalij",
+    "state": "ID",
+    "zip": "17742"
+  },
+  "contact": {
+    "phone": "(924) 475-7716",
+    "servicePhone": "800627649"
+  },
+  "birthday": "1970-05-22T11:50:49.428Z",
+  "ip": "236.76.23.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehiumfer joza tuetej tenob rocuh uk ju moftim afbamvat guuma ko ranlewri zine fofca. Vujulfub jevifsu jakvisa acekil kolmu bowdat va vanig jugki sap fo sogu. Zotu popwih vuce mihuk ve pov wobug numidsuk zigpe zipjikwa ufowo aw evolina tajkil vag.",
+    "bio": "Upcuzhul viwobsi lipsa cusnewu bole resvom cuz kazibaha vomajho gigi ge iwi fa zalempo ezefolmek. Judoj zati faur veozew can ivukes fuwagdo kudun guh zinerit nacagvek civ ivuaf. Jerlodnu pohe ale fus hih dufus situ napu ohi uto seija mug tocpej. Epuebcu ema wiis ir alipuwjok te kacusozu vingag uce pisva ogoner koguh juvhohru jakloc cumeten guwri soj oj. Oknalam imtu wocla otirizpuj epe lonweppe tec higuddur cigoana li ne dub. Atdaeh elo ben pame ajoseh hisu vip hug odzeloh kil ladalwe ipeni cuvim jil jajur. Jaod vir av tod ek popegi vafisoge ji zebepo ziheca wesetco tev hod ewlade kec holpu."
+  },
+  "apiKey": "dc0b9eb797941489fd3090d0c9a1c6ecb771832b8d12ce225160ecbbbf4873c6",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
