@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Brewer",
+  "age": 18,
+  "address": {
+    "street": "Zacoki Square",
+    "city": "Hezolze",
+    "state": "AR",
+    "zip": "36788"
+  },
+  "contact": {
+    "phone": "(723) 799-8724",
+    "servicePhone": "800571642"
+  },
+  "birthday": "1991-08-05T13:12:14.758Z",
+  "ip": "11.15.224.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubusimlu bek zejoh oti rih zi vo dopup eshe ifawetu osagen uzeip. Lamnefgih dufa zuvdi lirba ar kotivi upjuli nalatam voga bulaproj ba hodecoce mewbuw mad tol. Tevgenabu gipof lo ul ifmuno kozufeg weejuut gid secul rotrop rik cirrobu pu meutwi umokedo kaziku. Hi kel kuderre kitbeb nelifki comdak zesja locved we tibbujzi cekadjoz soge. Huz lah zi degmuhfe ezfis isodo zurid wojfo niccaba womigado wipa op.",
+    "bio": "Ku hiwu ba fuli lonruac ja pa nekwubba cukoku ewepaw ka kuhacuso fore. Al ku malvor mivbenhev ro toikiso tam ma cu jalpabos bunbu koiharo hazzucit nuat. Vo unojos hipucu jiksalnuj ojfuvcib lofehov gupker rocoaz ga ha tubena ufibarhuk kefho."
+  },
+  "apiKey": "0221b9e775314ee85ed4be26643490ab470a109a7a86963758efa2cf9bc80171",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
