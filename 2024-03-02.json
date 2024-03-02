@@ -1,0 +1,26 @@
+{
+  "name": "Callie Quinn",
+  "age": 39,
+  "address": {
+    "street": "Ogujum Circle",
+    "city": "Bordoran",
+    "state": "MN",
+    "zip": "39228"
+  },
+  "contact": {
+    "phone": "(527) 893-9335",
+    "servicePhone": "800484958"
+  },
+  "birthday": "2004-05-10T17:15:52.142Z",
+  "ip": "133.27.252.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi so zarnatju ib put sej gun rulafid mipfuw zatpucgi enkod nehur odrat. Zianiwed wejje sim hurot bowutle lise fohabso zowup enava jekab ib ware huev. Gebri ethujdo nuvimsi ma puzbuko ninnam ijwilwa ru ab munaav upivumob ka cob vuidiude.",
+    "bio": "Hozibwe ijuva uhni lagpep ni bowtuasi umobasho hebewuj jemob azobafzog sapvu finkiwza ora to waflid wooliwug awta derokvez. Na teru odamarik canir deszac jus menoin leb va sedonwit namez ofa oz. Nut wabizijo icfoh jizroru cur tor ecila woece litiw jero rab zo sesjirid zoctozdiv ija sem ubouni."
+  },
+  "apiKey": "53cf0ecbc1b5bccd151ef2cb22832a5134f4ec9cde2e980d8a76a560f38c51cf",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
