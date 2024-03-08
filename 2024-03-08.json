@@ -1,0 +1,26 @@
+{
+  "name": "Kate Stevens",
+  "age": 28,
+  "address": {
+    "street": "Sojni Center",
+    "city": "Duwedica",
+    "state": "MD",
+    "zip": "15367"
+  },
+  "contact": {
+    "phone": "(587) 769-4810",
+    "servicePhone": "800297287"
+  },
+  "birthday": "1983-05-23T23:23:25.062Z",
+  "ip": "238.236.51.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Hujtid lotejezik adefuv lekomi wun tiv sukwi ri tis sez ma juv. Gozu jaro ded dupluh miazebo kejac hif ec vot juwnareti nocfil latmok ruddi pif purpo jewjag. Hevga iburod enaje ikiogko fe oc cacnos honloppi ba sik eshapwe londas ewni oze ibo alzanfaf ol. Ta jo ozu wasunol fet iduke levriszul dihugu cansu uj nud kit siluju beba ti opu. Nozho ni fizhi erti cuuveka momcocrup liwewo tenludun na zebibleg hekdijban og wa kusefem vicwoz misaz fo iwiuv. Bagti hun ibucahep dufpusmif avo ko jug momapmus ufohol loiloin novkuwu kimuvo upadihwi.",
+    "bio": "Puh zutohcaj ligovaz uhipiw gegvarba nol ifevo owusazu etaleze lor hut ravbom vopesuso di. Se te tazev baha igmecon me lafji wi pivav kuj go jurce. Udjoku efa zoguimu mazi igjulo nep tilok lebkumceg ur lalag guvfeid avmo bapma jirurre. Sehiv ugi huzne woranefi lec niv jupodu secpavof hedi sodgu ju ufeze. Vogag doroc zekubite nahwug mizibosu mokizok go abokel nido illa va ja ritoc pusoze es hoha. Kum sa ufaugi bi coifki zuc kiburno zefola buzjatker hupgi olgozfi giezuke ocezurco awe. Og za dakol gi no giesitu so pep moz de ruf roztuw wunko atogekak zipdop odoki liwsa wamu."
+  },
+  "apiKey": "f1c8e27cec85986fb4c07411ed4d476003eba34b3b59dd35ce81fd8c0dfab229",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
