@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Ford",
+  "age": 22,
+  "address": {
+    "street": "Macvi Heights",
+    "city": "Cifoncu",
+    "state": "GA",
+    "zip": "93037"
+  },
+  "contact": {
+    "phone": "(665) 289-5005",
+    "servicePhone": "800411286"
+  },
+  "birthday": "1988-07-27T05:31:56.482Z",
+  "ip": "194.67.236.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Fimewek zobafi vopicwo huztelzim os lalico ej tegahlod azzehfa re nopwagabu izvagtig uruwapi gaut owa. Gubluw omhuuf muwrafpu hocmeape furo li aga bus wil ti up rignih zozus ocu deegadap umicatwuj. Mefe zok milfi pa buommo zu ohmah dadmeka sapet ejekef daadooj pukizjez. Ren senze jit ot dajes suf valzalo efochod uto vefwagzu ji hak kakah posa vuub.",
+    "bio": "Ga sufifza nejsug jizlu pevawu nikjop kijhuwjo vo jul meas bac zimomogo hagtesbej tissep. Ugoemho jibodu tobdu vevwom mahedu imopicuc etopo vimgu cacso tip olawi pesejnor nago. Odiiniji cod oba ri we wov idhutfi ev ufi jo vof jazahata bewoso. Kugrah sulozpor hohka of cebihti eccel beslumriw livupa haroene bowivo col itu lilru. Ovbu solsu av tamuwwiz ke rer pu iture utbewu ojov zam nonvawah. Izoiceri covu cic dovlazgaf uze ufima efe ile ace rafumaz tom fasueli depafajo ama."
+  },
+  "apiKey": "124845637735ccabf7df49bf08a2f520d7f6d56545d798a31afe33d4be8152f1",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
