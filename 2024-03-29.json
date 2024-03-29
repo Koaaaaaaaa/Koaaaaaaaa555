@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Evans",
+  "age": 30,
+  "address": {
+    "street": "Ulude Grove",
+    "city": "Ednacig",
+    "state": "IL",
+    "zip": "29753"
+  },
+  "contact": {
+    "phone": "(382) 986-9280",
+    "servicePhone": "800385442"
+  },
+  "birthday": "1982-03-03T19:34:44.774Z",
+  "ip": "42.111.137.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Aleddag taseme icfaho tuporaun bewudto ituhu we ahukes jivjop utcu gal va gemi. Vetpuwnan kocubuod zutu zomjel leal cuda obeltah kog edadam guv wuw ra rursata rodop torulo gezon biahida. Vijcup bul tibez zenki dogugop tirocek afbirne olu licug apuorika rozzu fozke amejolco kibog homoad wibuk. Idifu vaalo galudik mizovofo tutevwi gu rani zeonevu cede vog tulci ime so olukaflu viw cumgob lo. Ugizurvo epelu burpunva runapana juwi nulopuro lu upohitef onadmu azulerda jarlugmab ziwha rizbos cuzgiuc zevvil sa gevwot.",
+    "bio": "Jakjondi hu eta voko ginalap cinesi dapewuek moalada fite be ki sewiv. Cuzu kemeg lo nerire hor ve saozwe je goenvun ritnatik kilusub nerven eflersu. Muzudnuz sor meegaca begarutad ru oci hu we di ro weejanim lec."
+  },
+  "apiKey": "bcc078840aa61dd0eea0cb2f72053193257578cdaa4e76b6117fe634b98ee2b0",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
